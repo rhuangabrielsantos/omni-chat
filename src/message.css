@@ -1,0 +1,8 @@
+div#message {
+  border: 1px solid #ccc;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+
+  padding: 10px;
+  margin-top: 10px;
+}
